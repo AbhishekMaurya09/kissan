@@ -20,169 +20,25 @@ function popitup(url) {
 <body>
 
 
-<center><h3 class="h3class">धान</h3></center> <div style='float: right; '><a class="peechey" href="Link.do?method=khadyanfasley" />पीछे जाएँ  </a></div><br>
+<center><h1 class="h3class">धान</h1></center> <div style='float: right; '><a class="peechey" href="Link.do?method=khadyanfasley" />पीछे जाएँ  </a></div><br>
   <div align="right"><a class="peechey" href="./pdfs/Dhan Ki kheti, 2014.pdf" > विस्तृत जानकारी प्राप्त करें धान की खेती के बारे मे    </a></div>
 <h3><br>
-  <strong class="strongclass">उन्नत किस्में </strong><br></h3>
+  <strong class="strongclass">उन्नत किस्में </strong></h3>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <p>विभिन्न परिस्थितियों के लिये धान की उन्नत किस्में निम्नलिखित हैं।  तराई, भावर एवं मैदानी क्षेत्र की सिंचित (तलाऊ) परिस्थिति: इन परिस्थितियों की प्रजातियां इस प्रकार हैं। <br>
-  (1) <strong class="strongclass">शीध्र पकने वालीः </strong>गोविन्द, नरेन्द्र 118, नरेन्द्र 97, साकेत 4, पंत संकर धान 1 <br>
-  (2) <strong class="strongclass">मध्यम शीध्र पकने वालीः </strong>रत्ना, पंत धान 10, पंत धान 12,पंत संकर धान 3 <br>
-  (3)<strong class="strongclass"> मध्यम अवधि में पकने वालीः</strong> नरेन्द्र 359, पंत धान 4, सरजू 52, पी.एन.आर. 381, नरेन्द्र संकर धान 2, पन्त धान 18, एचकेआर 147, पीएनआर 113 <br>
-  (4) <strong class="strongclass">देर से पकने वालीः</strong> पूसा 44, स्वर्णा (एम.टी.यू. 7029) <br><br>
-
-  <strong class="strongclass">सुगंधित धान:</strong><br>
-  टाइप 3, तरावड़ी बासमती, पूसा बासमती 1, बासमती 370, टाइप-3 पन्त सुगन्ध धान 15, पन्त सुगन्ध धान 17, पन्त सुगन्ध धान 21, पूसा सुगन्ध 2, पूसा सुगन्ध 3, पूसा सुगन्ध 4 (पूसा 1121), पूसा सुगंध 5, पी.आर.एच. 10 (संकर) <br>
-  <strong class="strongclass">निचले एवं जल भराव वाले क्षेत्र</strong>:<br>
-  जल लहरी, मधुकर, जलप्रिया, जल मग्न <br>
-  <strong class="strongclass">ऊसरीली धान: </strong><br>
-  ऊसर धान 1, सीएसआर 10, सीएसआर 30, नरेन्द्र ऊसर धान 2, नरेन्द्र संकर ऊसर धान 3 <br>
-  <strong class="strongclass">पर्वतीय क्षेत्र की सिंचित (तलाऊ) परिस्थितिः</strong> <br>
-  इन परिस्थितियों की प्रजातियां इस प्रकार हैं: <br>
-  <strong class="strongclass">घाटियाँ या कम ऊॅचाई वाले क्षेत्र (900 मीटर तक):</strong><br>
-  गोविन्द, साकेत 4, प्रसाद, पंत धान 6, पंत धान 11, वी एल 81, विवेक धान 82, विवेक धान 85 <br>
-  <strong class="strongclass">मध्यम उचाई वाले क्षेत्र (900 से 1600 तक):</strong><br>
-  अल्पकालीन: पंत संकर धान 6, वी एल धान 81, विवेक धान 85, विवेक धान 82, पन्त धान-12 <br>
-  <strong class="strongclass" >मध्यकालीन</strong>:<br>
-  वी एल धान 61, विवेक धान 62, एवं विवेक धान 85 </p>
-  <p><strong class="strongclass">पर्वतीय क्षेत्र की असिंचित परिस्थितिः </strong><br>
-      चेतकी धान की वी एल धान 206, वी एल धान 207, वी एल धान 208, वी एल धान 209, पन्त मझेड़ा धान 7 तथा जेठी धान की वी एल धान 221, विवेक धान 154 प्रजातियां उपयुक्त हैं। <br>
- <br>
+  <p>विभिन्न परिस्थितियों के लिये धान की उन्नत किस्में निम्नलिखित हैं। <br><br>
+  
       <strong class="strongclass">बुवाई तथा रोपाई का समय: </strong><br><br>
   पर्वतीय क्षेत्र के असिंचित (उपराऊ) दशा में चेतकी धान की सीधी बुवाई सामान्यतः मध्य मार्च से अप्रैल के प्रथम पखवाड़े तक की जाती है
   जबकि जेठी धान की सीधी बुवाई मई के अंतिम सप्ताह से जून के प्रथम सप्ताह तक करनी चाहिए। सिंचित 
   (तलाऊ) दशा में धान की खेती को रोपाई द्वारा किया जाता है। धान की नर्सरी डालने एवं रोपाई का समय निम्नवत है। </p>
   
   
-  <p>
-      
-      <table width="956" height="160" border=1 cellpadding=0 cellspacing=0 class=MsoTableGrid
- style='border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
- mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt'>
- <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
-  <td width=153 valign=top style='width:104.4pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal align=center style='text-align:center'><b
-  style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:11.0pt;
-  mso-bidi-font-size:12.0pt;font-family:"Kruti Dev 010"'>{<span class=SpellE>ks</span>=<o:p></o:p></span></b></p>
-  </td>
-  <td width=134 valign=top style='width:90.0pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><b
-  style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:11.0pt;
-  mso-bidi-font-size:12.0pt;font-family:"Kruti Dev 010"'>ulZjh</span></b></span><b
-  style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:11.0pt;
-  mso-bidi-font-size:12.0pt;font-family:"Kruti Dev 010"'> <span class=SpellE>Mkyus</span>
-  <span class=SpellE>dk</span> le;<o:p></o:p></span></b></p>
-  </td>
-  <td width=259 valign=top style='width:88.2pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><b
-  style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:11.0pt;
-  mso-bidi-font-size:12.0pt;font-family:"Kruti Dev 010"'>ikS</span></b></span><b
-  style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:11.0pt;
-  mso-bidi-font-size:12.0pt;font-family:"Kruti Dev 010"'>/k <span class=SpellE>jksikbZ</span>
-  <span class=SpellE>dk</span> le;<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1'>
-  <td width=153 valign=top style='width:104.4pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal><span class=SpellE><span lang=EN-US style='font-size:11.0pt;
-  mso-bidi-font-size:12.0pt;font-family:"Kruti Dev 010"'>eSnkuh</span></span><span
-  lang=EN-US style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:
-  "Kruti Dev 010"'> {<span class=SpellE>ks</span>= ?<span class=SpellE>kkfV;k</span>¡
-  ,<span class=SpellE>oa</span> de <span class=SpellE>Å¡ps</span> {<span
-  class=SpellE>ks</span>= ¼900 eh0 rd dh <span class=SpellE>Å¡pkbZ</span> rd½<o:p></o:p></span></p>
-  </td>
-  <td width=134 valign=top style='width:90.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal><span class=SpellE><span lang=EN-US style='font-size:11.0pt;
-  mso-bidi-font-size:12.0pt;font-family:"Kruti Dev 010"'>ebZ</span></span><span
-  lang=EN-US style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:
-  "Kruti Dev 010"'> f}<span class=SpellE>rh</span>; <span class=SpellE>i</span>{k
-  <span class=SpellE>ls</span> <span class=SpellE>twu</span> <span
-  class=SpellE>dk</span> <span class=SpellE>izFke</span> <span class=SpellE>lIrkg</span><o:p></o:p></span></p>
-  </td>
-  <td width=259 valign=top style='width:88.2pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal><span class=SpellE><span lang=EN-US style='font-size:11.0pt;
-  mso-bidi-font-size:12.0pt;font-family:"Kruti Dev 010"'>twu</span></span><span
-  lang=EN-US style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:
-  "Kruti Dev 010"'> <span class=SpellE>vUr</span> <span class=SpellE>ls</span> <span
-  class=SpellE>tqykbZ</span> <span class=SpellE>dk</span> <span class=SpellE>izFke</span>
-  <span class=SpellE>lIrkg</span><o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:2'>
-  <td width=153 valign=top style='width:104.4pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal><span lang=EN-US style='font-size:11.0pt;mso-bidi-font-size:
-  12.0pt;font-family:"Kruti Dev 010"'>e/;e <span class=SpellE>Å¡ps</span> {<span
-  class=SpellE>ks</span>= ¼900 eh0 <span class=SpellE>ls</span> 1500 <span
-  class=SpellE>ehVj</span> <span class=SpellE>Å¡pkbZ</span> rd½<o:p></o:p></span></p>
-  </td>
-  <td width=134 valign=top style='width:90.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal><span class=SpellE><span lang=EN-US style='font-size:11.0pt;
-  mso-bidi-font-size:12.0pt;font-family:"Kruti Dev 010"'>ebZ</span></span><span
-  lang=EN-US style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:
-  "Kruti Dev 010"'> <span class=SpellE>izFke</span> <span class=SpellE>i</span>{k<o:p></o:p></span></p>
-  </td>
-  <td width=259 valign=top style='width:88.2pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal><span class=SpellE><span lang=EN-US style='font-size:11.0pt;
-  mso-bidi-font-size:12.0pt;font-family:"Kruti Dev 010"'>twu</span></span><span
-  lang=EN-US style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:
-  "Kruti Dev 010"'> <span class=SpellE>dk</span> f}<span class=SpellE>rh</span>;
-  <span class=SpellE>i</span>{k <o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:3;mso-yfti-lastrow:yes'>
-  <td width=153 valign=top style='width:104.4pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal><span class=SpellE><span lang=EN-US style='font-size:11.0pt;
-  mso-bidi-font-size:12.0pt;font-family:"Kruti Dev 010"'>Å¡ps</span></span><span
-  lang=EN-US style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:
-  "Kruti Dev 010"'> {<span class=SpellE>ks</span>= ¼1500 <span class=SpellE>ehVj</span>
-  <span class=SpellE>ls</span> Åij½<o:p></o:p></span></p>
-  </td>
-  <td width=134 valign=top style='width:90.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal><span class=SpellE><span lang=EN-US style='font-size:11.0pt;
-  mso-bidi-font-size:12.0pt;font-family:"Kruti Dev 010"'>vizSy</span></span><span
-  lang=EN-US style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:
-  "Kruti Dev 010"'> <span class=SpellE>dk</span> f}<span class=SpellE>rh</span>;
-  <span class=SpellE>i</span>{k<o:p></o:p></span></p>
-  </td>
-  <td width=259 valign=top style='width:88.2pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal><span class=SpellE><span lang=EN-US style='font-size:11.0pt;
-  mso-bidi-font-size:12.0pt;font-family:"Kruti Dev 010"'>twu</span></span><span
-  lang=EN-US style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:
-  "Kruti Dev 010"'> <span class=SpellE>dk</span> <span class=SpellE>izFke</span>
-  <span class=SpellE>i</span>{k <o:p></o:p></span></p>
-  </td>
- </tr>
-</table>
-  </p>
+  <img src="imgages/tables/table9.jpg" alt="table" width="1000px"><br>
+  <img src="imgages/tables/table10.jpg" alt="table" width="1000px"><br>
+
+  <p><b>बुवाई तथा रोपाई का समय : </b>पर्वतीय क्षेत्र के असंचित दशा में चेतकी मध्य मार्च से अप्रैल के पहले सप्ताह तक और जेठी धान की सीधी बुवाई मई के अंतिम सप्ताह से जून के पहले सप्ताह तक करनी चाहिए। सिंचित (सर्दी) क्षेत्र में धान की खेती रोपाई द्वारा की जाती है। धान की नर्सरी लगाने और रोपाई का समय निम्नलिखित है:</p><br>
+
+  <img src="imgages/tables/table11.jpg" alt="table" width="770px"><br>
 
   <p><br>
     <strong class="strongclass">बीज दर एवं बुवाई: </strong><br>
@@ -363,10 +219,9 @@ function popitup(url) {
 </p>
 <p><strong class="strongclass">आभासी कंड (फाल्स स्मट)</strong>: इससे धान के दाने भूरे, हरे, पीले तथा काले रंग के गोल-गोल आकार के हो जाते है। संक्रमित बाली में दाने कहीं-कहीं पर दिखाई देते है। इस रोग की रोकथाम के लिए प्रथम छिड़काव बाली निकलते समय प्रोपेकोनेजाल 1 मि.ली./लीटर अथवा क्लोरोथेलोनिल नामक रसायन की 2 ग्रा. प्रति लीटर पानी की दर से करें। द्वितीय छिड़काव इन्ही रसायनों का बालियों के पूर्णतयाः बाहर निकलने के बाद करें। <br>
 </p>
-<p><strong class="strongclass">उपज </strong>
-      <br>
-  संस्तुत विधियाँ अपनाकर उपराऊ क्षेत्र में 15-20 कुन्तल प्रति हैक्टर (30 से 40 कि.ग्रा./नाली) तथा सिंचित क्षेत्र में 40-50 कुन्टल प्रति हैक्टर (80-90 कि.ग्रा. प्रति नाली) पैदावार प्राप्त की जा सकती है। <br>
-  <br>
+
+<br>
+<p>संपर्क सूत्र: 8755790584
 </p>
 <div style='float: right; '><a class="peechey" href="Link.do?method=khadyanfasley" />पीछे जाएँ  </a></div></p>
 </body>
