@@ -6,12 +6,12 @@
     <meta charset="utf-8">
     <title>Untitled Document</title>
     <script language="javascript" type="text/javascript">
-      <!-
-      function popitup(url) {
-        newwindow=window.open(url,'name','height=400,width=300');
-        if (window.focus) {newwindow.focus()}
-        return false;
-      }
+      // <!-
+      // function popitup(url) {
+      //   newwindow=window.open(url,'name','height=400,width=300');
+      //   if (window.focus) {newwindow.focus()}
+      //   return false;
+      // }
       
       // -->
     </script>
