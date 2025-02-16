@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE struts-config PUBLIC
+          "-//Apache Software Foundation//DTD Struts Configuration 1.2//EN"
+          "http://jakarta.apache.org/struts/dtds/struts-config_1_2.dtd">
+
+
+<struts-config>
+    <form-beans>
+    <form-bean name="lform" type="com.vaannila.LoginForm"/>
+    </form-beans>
+    
+    <global-exceptions>
+    
+    </global-exceptions>
+
+    <global-forwards>
+        <forward name="welcome"  path="/Welcome.do"/>
+    </global-forwards>
+
+    <action-mappings>
+        <action name="lform" path="/Login" scope="session" type="com.vaannila.LoginAction">
+
+        <forward name="success" path="/index.jsp" />
+        <forward name="failure" path="/index.jsp" />
+
+        </action>
+     
+
+        
+        <action path="/Link" parameter="method" type="com.vaannila.LinkAction">
+            <forward name="home" path="/index.jsp"/>
+             <forward name="checkout" path="http://www.gbpuat.ac.in/" redirect="true" contextRelative="false"/>
+            <forward name="chapter1" path="chapter1"/>
+            <forward name="abtuniversity" path="abtuniversity"/>
+            <forward name="office" path="office"/>
+            <forward name="khadyanfasley" path="khadyanfasley"/>
+              <forward name="gehun" path="gehun"/>
+              <forward name="chawal" path="chawal"/>
+              <forward name="macca" path="macca"/>
+              <forward name="ganna" path="ganna"/>
+             
+            <forward name="dalhanifaslein" path="dalhanifaslein"/>
+              <forward name="chana" path="chana"/>
+              <forward name="matar" path="matar"/>
+              <forward name="arhar" path="arhar"/>
+              <forward name="masoor" path="masoor"/>
+              <forward name="moong" path="moong"/>
+              <forward name="rajma" path="rajma"/>
+              <forward name="urd" path="urd"/>
+              
+              <forward name="tilhanifaslein" path="tilhanifaslein"/>
+              <forward name="lahi" path="lahi"/>
+              <forward name="rai" path="rai"/>
+              <forward name="peelisarson" path="peelisarson"/>
+              <forward name="moongfali" path="moongfali"/>
+              <forward name="til" path="til"/>
+              <forward name="surajmukhi" path="surajmukhi"/>
+              <forward name="soyabeen" path="soyabeen"/>
+              
+              <forward name="motaanaz" path="motaanaz"/>
+              
+              <forward name="madua" path="madua"/>
+              <forward name="jhangora" path="jhangora"/>
+              <forward name="kakun" path="kakun"/>
+              <forward name="cheena" path="cheena"/>
+              <forward name="ramdana" path="ramdana"/>
+              <forward name="kuttu" path="kuttu"/>
+              <forward name="raisbeen" path="raisbeen"/>
+              <forward name="gahat" path="gahat"/>
+              <forward name="parichay" path="parichay"/>
+               
+              
+              <forward name="maslonkikheti" path="maslonkikheti"/>
+              <forward name="dhania" path="dhania"/>
+              <forward name="methi" path="methi"/>
+              <forward name="lahusun" path="lahusun"/>
+              <forward name="pyaj" path="pyaj"/>
+              <forward name="haldi" path="haldi"/>
+              <forward name="adarak" path="adarak"/>
+              <forward name="sabji" path="sabji"/>
+         <forward name="falfool" path="falfool"/>
+         <forward name="fal"  path="fal"/>
+         <forward name="aam"  path="aam"/>
+         <forward name="exportfool"  path="exportfool"/>   
+         <forward name="sugandhi"  path="sugandhi"/>
+         <forward name="suksamposak" path="suksamposak"/>
+         
+         <forward name="anyfasal"  path="anyfasal"/>
+         <forward name="jaivik" path="jaivik"/>
+         <forward name="falsuraksha" path= "falsuraksha"/>
+         <forward name="kharpatwar" path="kharpatwar"/>
+         <forward name="fasalchakra" path="fasalchakra"/>
+         <forward name="mushroom" path="mushroom"/>
+         <forward name="mushroomkalewar" path="mushroomkalewar"/>
+         <forward name="krishikarya" path="krishikarya"/>
+         <forward name="pasupalan" path="pasupalan"/>
+         <forward name="pasuahar" path="pasuahar"/>
+         <forward name="pasubimari" path="pasubimari"/>
+         <forward name="kukutpalan" path="kukutpalan"/>
+         <forward name="matsya" path="matsya"/>
+         <forward name="pasuhealth" path="pasuhealth"/>
+         <forward name="krishiupkaran" path="krishiupkaran"/>
+         <forward name="krishimachine" path="krishimachine"/>
+         <forward name="mudra" path="mudra"/>
+         <forward name="keetnaasak" path="keetnaasak"/>
+          <forward name="kessanmela" path="kessanmela"/>
+          
+          <forward name="search" path="search"/>
+          <forward name="login" path="login"/>
+          <forward name="sabjimatar" path="sabjimatar"/>
+          <forward name="aaloo" path="aaloo"/>
+          <forward name="shimlamirch" path="shimlamirch"/>
+          <forward name="tamatar" path="tamatar"/>
+          <forward name="gobhi" path="gobhi"/>
+          <forward name="polyhouse" path="polyhouse"/>
+          <forward name="aamkeybaag" path="aamkeybaag"/>
+          <forward name="leechi" path="leechi"/>
+          <forward name="amrud" path="amrud"/>
+          <forward name="fool" path="fool"/>
+          <forward name="jaivikkheti"  path="jaivikkheti"/>
+          <forward name="mudra1" path="mudra1"/>
+          <forward name="mudra2" path="mudra2"/>
+          <forward name="mudra3" path="mudra3"/>
+          <forward name="mudra4" path="mudra4"/>
+          <forward name="pahadikrishimachine" path="pahadikrishimachine"/>
+          <forward name="pasupalanbindu"  path="pasupalanbindu"/>
+          <forward name="matsyapalan"  path="matsyapalan"/>
+           <forward name="sabjisangrashit" path="sabjisangrashit"/>
+           <forward name="parwal" path="parwal"/>
+           <forward name="kheera" path="kheera"/>
+           <forward name="lauki" path="lauki"/>
+           <forward name="torai" path="torai"/>
+            <forward name="kashifal" path="kashifal"/>
+           <forward name="chappankaddu" path="chappankaddu"/>
+            <forward name="bhindi" path="bhindi"/>
+             <forward name="mirch" path="mirch"/>
+             <forward name="faraasbean" path="faraasbean"/>
+             <forward name="sem" path="sem"/>
+              <forward name="lobiya" path="lobiya"/>
+               <forward name="kharpatwarnew" path="kharpatwarnew"/>
+              <forward name="kharifkharpatwaar" path="kharifkharpatwaar"/>
+              
+              <forward name="rabikharpatwaar" path="rabikharpatwaar"/>
+              <forward name="dhaankeet1" path="dhaankeet1"/>
+               <forward name="gehunkeet2" path="gehunkeet2"/>
+              <forward name="soyabean3" path="soyabean3"/>
+               <forward name="bean4" path="bean4"/>
+            <forward name="chana5" path="chana5"/>
+            <forward name="sabji1" path="sabji1"/>
+            <forward name="sabji2" path="sabji2"/>
+            <forward name="fal8" path="fal8"/> 
+            <forward name="rasayannaam" path="rasayannaam"/>
+            <forward name="gruhvigyan" path="gruhvigyan"/> 
+               <forward name="paristthsurakcha" path="paristthsurakcha"/> 
+                <forward name="falsabjiparikchan" path="falsabjiparikchan"/>  
+                
+                <forward name="laguudyog" path="laguudyog"/>   
+               <forward name="moteyanazmuly" path="moteyanazmuly"/>
+              <forward name="moteyanazmuly1"  path="moteyanazmuly1"/>
+              <forward name="krishiArth"  path="krishiArth"/>
+        </action>
+       
+    </action-mappings>
+    
+    <controller processorClass="org.apache.struts.tiles.TilesRequestProcessor"/>
+
+    <message-resources parameter="com/vaannila/ApplicationResource"/>
+    
+    <!-- ========================= Tiles plugin ===============================-->
+    <!--
+    This plugin initialize Tiles definition factory. This later can takes some
+    parameters explained here after. The plugin first read parameters from
+    web.xml, thenoverload them with parameters defined here. All parameters
+    are optional.
+    The plugin should be declared in each struts-config file.
+    - definitions-config: (optional)
+    Specify configuration file names. There can be several comma
+    separated file names (default: ?? )
+    - moduleAware: (optional - struts1.1)
+    Specify if the Tiles definition factory is module aware. If true
+    (default), there will be one factory for each Struts module.
+    If false, there will be one common factory for all module. In this
+    later case, it is still needed to declare one plugin per module.
+    The factory will be initialized with parameters found in the first
+    initialized plugin (generally the one associated with the default
+    module).
+    true : One factory per module. (default)
+    false : one single shared factory for all modules
+    - definitions-parser-validate: (optional)
+    Specify if xml parser should validate the Tiles configuration file.
+    true : validate. DTD should be specified in file header (default)
+    false : no validation
+
+    Paths found in Tiles definitions are relative to the main context.
+    -->
+    <plug-in className="org.apache.struts.tiles.TilesPlugin" >
+        <set-property property="definitions-config" value="/WEB-INF/tiles-defs.xml" />      
+        <set-property property="moduleAware" value="true" />
+    </plug-in>
+    
+    <!-- ========================= Validator plugin ================================= -->
+    <plug-in className="org.apache.struts.validator.ValidatorPlugIn">
+        <set-property
+            property="pathnames"
+            value="/WEB-INF/validator-rules.xml,/WEB-INF/validation.xml"/>
+    </plug-in>
+  
+</struts-config>

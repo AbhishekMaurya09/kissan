@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+ <!DOCTYPE tiles-definitions PUBLIC
+       "-//Apache Software Foundation//DTD Tiles Configuration 1.1//EN"
+       "http://jakarta.apache.org/struts/dtds/tiles-config_1_1.dtd">
+
+
+<!--
+     This is a blank Tiles definition file with a commented example.
+-->
+
+<tiles-definitions>
+
+    <!-- sample tiles definitions
+    <definition name=".mainLayout" path="/common/layouts/classicLayout.jsp">
+        <put name="title"  value="Sample Page Title" />
+        <put name="header" value="/common/header.jsp" />
+        <put name="menu"   value=".mainMenu" />
+        <put name="footer" value="/common/footer.jsp" />
+        <put name="body"   value=".portal.body" />
+    </definition>
+
+    <definition name=".mainMenu" path="/common/layouts/vboxLayout.jsp" >
+        <putList name="list" >
+            <add value=".menu.links" />
+            <add value=".menu.taglib.references" />
+            <add value=".menu.printer.friendly" />
+            <add value=".menu.old.documents" />
+      </putList>
+    </definition>
+
+    <definition name="aPage" extends=".mainLayout">
+        <put name="title"  value="Another Title" />
+        <put name="body"   value=".aPage.body" />
+    </definition>
+
+    end samples -->
+
+    <definition name="${YOUR_DEFINITION_HERE}">
+    </definition>
+
+    <definition name="baseLayout" path="/html5.jsp">
+        <put name="title"  value="Tiles Example" />
+        <put name="header" value="/header.jsp" />
+        <put name="menu"   value="/menu.jsp" />
+        <put name="body"   value="/body.jsp" />
+        <put name="footer" value="/footer.jsp" />        
+    </definition>
+    
+    
+    <definition name="chapter1" extends="baseLayout">
+        <put name="title" value="Chapter1" />
+        <put name="body" value="/chapter1.jsp" />
+    </definition>
+    
+    <!--khadayan fasley -->
+    <definition name="khadyanfasley" extends="baseLayout">
+        <put name="title" value="Khadiyan Fasley" />
+        <put name="body" value="/khadyanfasley.jsp" />
+    </definition>
+    
+    <definition name="gehun" extends="baseLayout">
+        <put name="title" value="gehun" />
+        <put name="body" value="/gehun.jsp" />
+    </definition>
+    
+    <definition name="chawal" extends="baseLayout">
+        <put name="title" value="chawal" />
+        <put name="body" value="/chawal.jsp" />
+    </definition>
+    
+    <definition name="macca" extends="baseLayout">
+        <put name="title" value="macca" />
+        <put name="body" value="/macca.jsp" />
+    </definition>
+    <definition name="macca" extends="baseLayout">
+        <put name="title" value="macca" />
+        <put name="body" value="/macca.jsp" />
+    </definition>
+    
+    
+    
+    <definition name="ganna" extends="baseLayout">
+        <put name="title" value="Ganna" />
+        <put name="body" value="/ganna.jsp" />
+    </definition>
+    
+    <definition name="dalhanifaslein" extends="baseLayout">
+        <put name="title" value="dalhanifaslein" />
+        <put name="body" value="/dalhanifaslein.jsp" />
+    </definition>
+    
+    <definition name="chana" extends="baseLayout">
+        <put name="title" value="chana" />
+        <put name="body" value="/dal/chana.jsp" />
+    </definition>
+    
+    <definition name="matar" extends="baseLayout">
+        <put name="title" value="matar" />
+        <put name="body" value="/dal/matar.jsp" />
+    </definition>
+    
+    <definition name="arhar" extends="baseLayout">
+        <put name="title" value="arhar" />
+        <put name="body" value="/dal/arhar.jsp" />
+    </definition>
+    
+    <definition name="masoor" extends="baseLayout">
+        <put name="title" value="masoor" />
+        <put name="body" value="/dal/masoor.jsp" />
+    </definition>
+    
+    
+    
+    <definition name="urd" extends="baseLayout">
+        <put name="title" value="matar" />
+        <put name="body" value="/dal/urd.jsp" />
+    </definition>
+    
+    <definition name="moong" extends="baseLayout">
+        <put name="title" value="moong" />
+        <put name="body" value="/dal/moong.jsp" />
+    </definition>
+    
+    <definition name="rajma" extends="baseLayout">
+        <put name="title" value="masoor" />
+        <put name="body" value="/dal/rajma.jsp" />
+    </definition>
+    
+    
+    <definition name="tilhanifaslein" extends="baseLayout">
+        <put name="title" value="tilhanifaslein" />
+        <put name="body" value="/tilhanifaslein.jsp" />
+    </definition>
+     <definition name="lahi" extends="baseLayout">
+        <put name="title" value="lahi" />
+        <put name="body" value="til/lahi.jsp" />
+    </definition>
+    
+     <definition name="rai" extends="baseLayout">
+        <put name="title" value="rai" />
+        <put name="body" value="til/rai.jsp" />
+    </definition>
+     <definition name="peelisarson" extends="baseLayout">
+        <put name="title" value="peelisarson" />
+        <put name="body" value="til/peelisarson.jsp" />
+    </definition>
+    <definition name="moongfali" extends="baseLayout">
+        <put name="title" value="moongfali" />
+        <put name="body" value="til/moongfali.jsp" />
+    </definition>
+
+     <definition name="til" extends="baseLayout">
+        <put name="title" value="moongfali" />
+        <put name="body" value="til/til.jsp" />
+    </definition>
+    <definition name="surajmukhi" extends="baseLayout">
+        <put name="title" value="surajmukhi" />
+        <put name="body" value="til/surajmukhi.jsp" />
+    </definition> 
+    
+    <definition name="soyabeen" extends="baseLayout">
+        <put name="title" value="soyabeen" />
+        <put name="body" value="til/soyabeen.jsp" />
+    </definition>                   
+                 
+              
+    <definition name="motaanaz" extends="baseLayout">
+        <put name="title" value="motaanaz" />
+        <put name="body" value="motaanaz.jsp" />
+    </definition>
+    
+    <definition name="madua" extends="baseLayout">
+        <put name="title" value="madua" />
+        <put name="body" value="/motaanaz/madua.jsp" />
+    </definition>
+    
+    <definition name="jhangora" extends="baseLayout">
+        <put name="title" value="jhangora" />
+        <put name="body" value="/motaanaz/jhangora.jsp" />
+    </definition>
+    
+    <definition name="kakun" extends="baseLayout">
+        <put name="title" value="kakun" />
+        <put name="body" value="/motaanaz/kakun.jsp" />
+    </definition>
+    
+     <definition name="cheena" extends="baseLayout">
+        <put name="title" value="cheena" />
+        <put name="body" value="/motaanaz/cheena.jsp" />
+    </definition>
+    
+    
+     <definition name="ramdana" extends="baseLayout">
+        <put name="title" value="ramdana" />
+        <put name="body" value="/motaanaz/ramdana.jsp" />
+    </definition>
+    
+    <definition name="kuttu" extends="baseLayout">
+        <put name="title" value="kuttu" />
+        <put name="body" value="/motaanaz/kuttu.jsp" />
+    </definition>                         
+         
+    <definition name="raisbeen" extends="baseLayout">
+        <put name="title" value="raisbeen" />
+        <put name="body" value="/motaanaz/raisbeen.jsp" />
+    </definition>
+    
+    <definition name="gahat" extends="baseLayout">
+        <put name="title" value="gahat" />
+        <put name="body" value="/motaanaz/gahat.jsp" />
+    </definition>
+    
+    <definition name="parichay" extends="baseLayout">
+        <put name="title" value="parichay" />
+        <put name="body" value="/motaanaz/motaanazparichay.jsp" />
+    </definition>
+    
+     <definition name="maslonkikheti" extends="baseLayout">
+        <put name="title" value="maslonkikheti" />
+        <put name="body" value="/maslonkikheti.jsp" />
+    </definition>
+    
+    <definition name="dhania" extends="baseLayout">
+        <put name="title" value="dhania" />
+        <put name="body" value="/masaley/dhaniya.jsp" />
+    </definition>
+  
+     <definition name="haldi" extends="baseLayout">
+        <put name="title" value="haldi" />
+        <put name="body" value="/masaley/haldi.jsp" />
+    </definition>                                                                                                        
+              
+      <definition name="lahusun" extends="baseLayout">
+        <put name="title" value="lahusun" />
+        <put name="body" value="/masaley/lahusun.jsp" />
+    </definition>
+    <definition name="methi" extends="baseLayout">
+        <put name="title" value="methi" />
+        <put name="body" value="/masaley/methi.jsp" />
+    </definition>
+    <definition name="pyaj" extends="baseLayout">
+        <put name="title" value="pyaj" />
+        <put name="body" value="/masaley/pyaj.jsp" />
+    </definition>
+    
+    <definition name="adarak" extends="baseLayout">
+        <put name="title" value="adarak" />
+        <put name="body" value="/masaley/adarak.jsp" />
+    </definition>
+    
+    <definition name="sabji" extends="baseLayout">
+        <put name="title" value="sabji" />
+        <put name="body" value="/sabji.jsp" />
+    </definition>
+  
+   <definition name="falfool" extends="baseLayout">
+        <put name="title" value="falfool" />
+        <put name="body" value="/falfool.jsp" />
+    </definition>
+    
+    <definition name="fal" extends="baseLayout">
+        <put name="title" value="fal" />
+        <put name="body" value="/falfool/fal.jsp" />
+    </definition>
+    <definition name="aam" extends="baseLayout">
+        <put name="title" value="aam" />
+        <put name="body" value="/falfool/aam.jsp" />
+    </definition>
+    <definition name="exportfool" extends="baseLayout">
+        <put name="title" value="exportfool" />
+        <put name="body" value="/falfool/exportfool.jsp" />
+    </definition>
+    
+    <definition name="sugandhi" extends="baseLayout">
+        <put name="title" value="sugandhi" />
+        <put name="body" value="/falfool/sugandhi.jsp" />
+    </definition>
+    <definition name="suksamposak" extends="baseLayout">
+        <put name="title" value="suksamposak" />
+        <put name="body" value="/suksamposak.jsp" />
+    </definition>
+    
+    <definition name="anyfasal" extends="baseLayout">
+        <put name="title" value="anyfasal" />
+        <put name="body" value="/anyfasal.jsp" />
+    </definition>
+    <definition name="jaivik" extends="baseLayout">
+        <put name="title" value="jaivik" />
+        <put name="body" value="/jawik.jsp" />
+    </definition>
+    
+    <definition name="falsuraksha" extends="baseLayout">
+        <put name="title" value="falsuraksha" />
+        <put name="body" value="/falsuraksha.jsp" />
+    </definition>
+    
+    <definition name="kharpatwar" extends="baseLayout">
+        <put name="title" value="kharpatwar" />
+        <put name="body" value="/kharpatwar.jsp" />
+    </definition>
+    
+    <definition name="fasalchakra" extends="baseLayout">
+        <put name="title" value="fasalchakra" />
+        <put name="body" value="/fasalchakra.jsp" />
+    </definition>
+    <definition name="mushroom" extends="baseLayout">
+        <put name="title" value="mushroom" />
+        <put name="body" value="/mushroom.jsp" />
+    </definition>
+     <definition name="mushroomkalewar" extends="baseLayout">
+        <put name="title" value="mushroomkalewar" />
+        <put name="body" value="/mushroomkalewar.jsp" />
+    </definition>
+    
+    <definition name="krishikarya" extends="baseLayout">
+        <put name="title" value="krishikarya" />
+        <put name="body" value="/krishikarya.jsp" />
+    </definition>
+    
+    <definition name="pasupalan" extends="baseLayout">
+        <put name="title" value="pasupalan" />
+        <put name="body" value="/pasupalan.jsp" />
+    </definition>
+    
+    <definition name="pasuahar" extends="baseLayout">
+        <put name="title" value="pasuahar" />
+        <put name="body" value="/pasupalan/pasuahar.jsp" />
+    </definition>
+    
+    <definition name="pasubimari" extends="baseLayout">
+        <put name="title" value="pasubimari" />
+        <put name="body" value="/pasupalan/pasubimari.jsp" />
+    </definition>
+    
+    <definition name="kukutpalan" extends="baseLayout">
+        <put name="title" value="kukutpalan" />
+        <put name="body" value="/pasupalan/kukutpalan.jsp" />
+    </definition>
+    <definition name="matsya" extends="baseLayout">
+        <put name="title" value="matsya" />
+        <put name="body" value="/pasupalan/matsya.jsp" />
+    </definition>
+    <definition name="pasuhealth" extends="baseLayout">
+        <put name="title" value="pasuhealth" />
+        <put name="body" value="/pasupalan/pasuhealth.jsp" />
+    </definition>
+    
+    <definition name="krishiupkaran" extends="baseLayout">
+        <put name="title" value="krishiupkaran" />
+        <put name="body" value="/krishiupkaran.jsp" />
+    </definition>
+    
+    <definition name="krishimachine" extends="baseLayout">
+        <put name="title" value="krishimachine" />
+        <put name="body" value="/krshimachine.jsp" />
+    </definition>
+    <definition name="mudra" extends="baseLayout">
+        <put name="title" value="mudra" />
+        <put name="body" value="/mudra.jsp" />
+    </definition>
+    
+    <definition name="keetnaasak" extends="baseLayout">
+        <put name="title" value="keetnaasak" />
+        <put name="body" value="/keetnaasak.jsp" />
+    </definition>
+    
+     <definition name="kessanmela" extends="baseLayout">
+        <put name="title" value="keetnaasak" />
+        <put name="body" value="/machines.jsp" />
+    </definition>
+    
+    
+    
+     <definition name="search" extends="baseLayout">
+        <put name="title" value="search" />
+        <put name="body" value="/search.jsp" />
+    </definition>
+     <definition name="search" extends="baseLayout">
+        <put name="title" value="search" />
+        <put name="body" value="/search.jsp" />
+    </definition>
+     <definition name="login" extends="baseLayout">
+        <put name="title" value="login" />
+        <put name="body" value="/login.jsp" />
+    </definition>
+      <definition name="abtuniversity" extends="baseLayout">
+        <put name="title" value="abt" />
+        <put name="body" value="/abtuniversity.jsp" />
+    </definition>
+    
+    <definition name="sabjimatar" extends="baseLayout">
+        <put name="title" value="sabjimatar" />
+        <put name="body" value="/sabji/sabjimatar.jsp" />
+    </definition>
+    <definition name="aaloo" extends="baseLayout">
+        <put name="title" value="aaloo" />
+        <put name="body" value="/sabji/aaloo.jsp" />
+    </definition>
+     <definition name="shimlamirch" extends="baseLayout">
+        <put name="title" value="shimlamirch" />
+        <put name="body" value="/sabji/shimlamirch.jsp" />
+    </definition>
+    
+    <definition name="tamatar" extends="baseLayout">
+        <put name="title" value="tamatar" />
+        <put name="body" value="/sabji/tamatar.jsp" />
+    </definition>
+     <definition name="gobhi" extends="baseLayout">
+        <put name="title" value="tamatar" />
+        <put name="body" value="/sabji/gobhi.jsp" />
+    </definition>
+    <definition name="polyhouse" extends="baseLayout">
+        <put name="title" value="" />
+        <put name="body" value="/sabji/polyhouse.jsp" />
+    </definition>
+    <definition name="aamkeybaag" extends="baseLayout">
+        <put name="title" value="aamkeybaag" />
+        <put name="body" value="/falfool/aamkeybaag.jsp" />
+    </definition>
+     <definition name="leechi" extends="baseLayout">
+        <put name="title" value="leechi" />
+        <put name="body" value="/falfool/leechi.jsp" />
+    </definition>
+    <definition name="amrud" extends="baseLayout">
+        <put name="title" value="amrud" />
+        <put name="body" value="/falfool/amrud.jsp" />
+    </definition>
+    <definition name="fool" extends="baseLayout">
+        <put name="title" value="fool" />
+        <put name="body" value="/falfool/fool.jsp" />
+    </definition>
+    
+    
+      <definition name="jaivikkheti" extends="baseLayout">
+        <put name="title" value="jaivikkheti" />
+        <put name="body" value="/jaivikkheti.jsp" />
+    </definition>  
+    
+    
+      <definition name="mudra1" extends="baseLayout">
+        <put name="title" value="mudra1" />
+        <put name="body" value="/mudra/mudra1.jsp" />
+    </definition> 
+    
+     <definition name="mudra2" extends="baseLayout">
+        <put name="title" value="mudra2" />
+        <put name="body" value="/mudra/mudra2.jsp" />
+    </definition>
+      <definition name="mudra3" extends="baseLayout">
+        <put name="title" value="mudra3" />
+        <put name="body" value="/mudra/mudra3.jsp" />
+    </definition>
+      <definition name="mudra3" extends="baseLayout">
+        <put name="title" value="mudra3" />
+        <put name="body" value="/mudra/mudra3.jsp" />
+    </definition>
+     <definition name="mudra4" extends="baseLayout">
+        <put name="title" value="mudra4" />
+        <put name="body" value="/mudra/mudra4.jsp" />
+    </definition>
+     <definition name="pahadikrishimachine" extends="baseLayout">
+        <put name="title" value="mudra4" />
+        <put name="body" value="/pahadikrishimachine.jsp" />
+    </definition>
+     <definition name="pasupalanbindu" extends="baseLayout">
+        <put name="title" value="pasupalanbindu" />
+        <put name="body" value="/pasupalan/pasupalanbindu.jsp" />
+    </definition>
+    
+     <definition name="matsyapalan" extends="baseLayout">
+        <put name="title" value="matsyapalan" />
+        <put name="body" value="/pasupalan/matsyapalan.jsp" />
+    </definition>
+    <definition name="sabjisangrashit" extends="baseLayout">
+        <put name="title" value="sabjisangrashit" />
+        <put name="body" value="/sabji/sabjisangrashit.jsp" />
+    </definition>
+    <definition name="parwal" extends="baseLayout">
+        <put name="title" value="parwal" />
+        <put name="body" value="/sabji/parwal.jsp" />
+    </definition>
+    <definition name="kheera" extends="baseLayout">
+        <put name="title" value="kheera" />
+        <put name="body" value="/sabji/kheera.jsp" />
+    </definition>
+    
+    <definition name="lauki" extends="baseLayout">
+        <put name="title" value="lauki" />
+        <put name="body" value="/sabji/lauki.jsp" />
+    </definition>
+    
+     <definition name="karela" extends="baseLayout">
+        <put name="title" value="karela" />
+        <put name="body" value="/sabji/karela.jsp" />
+    </definition>
+    
+     <definition name="torai" extends="baseLayout">
+        <put name="title" value="torai" />
+        <put name="body" value="/sabji/torai.jsp" />
+    </definition>
+     <definition name="kashifal" extends="baseLayout">
+        <put name="title" value="kashifal" />
+        <put name="body" value="/sabji/kashifal.jsp" />
+    </definition>
+    <definition name="chappankaddu" extends="baseLayout">
+        <put name="title" value="kashifal" />
+        <put name="body" value="/sabji/chappankaddu.jsp" />
+    </definition>
+     <definition name="bhindi" extends="baseLayout">
+        <put name="title" value="bhindi" />
+        <put name="body" value="/sabji/bhindi.jsp" />
+    </definition>
+    <definition name="mirch" extends="baseLayout">
+        <put name="title" value="mirch" />
+        <put name="body" value="/sabji/mirch.jsp" />
+    </definition>
+    <definition name="faraasbean" extends="baseLayout">
+        <put name="title" value="faraasbean" />
+        <put name="body" value="/sabji/faraasbean.jsp" />
+    </definition>
+    
+       <definition name="sem" extends="baseLayout">
+        <put name="title" value="sem" />
+        <put name="body" value="/sabji/sem.jsp" />
+    </definition>
+     <definition name="lobiya" extends="baseLayout">
+        <put name="title" value="lobiya" />
+        <put name="body" value="/sabji/lobiya.jsp" />
+    </definition>
+    
+     <definition name="kharpatwarnew" extends="baseLayout">
+        <put name="title" value="kharpatwar" />
+        <put name="body" value="/kharpatwarnew.jsp" />
+    </definition>
+    
+    <definition name="kharifkharpatwaar" extends="baseLayout">
+        <put name="title" value="kharifkharpatwaar" />
+        <put name="body" value="/kharpatwaar/kharifkharpatwaar.jsp"/>
+    </definition>
+    
+    <definition name="rabikharpatwaar" extends="baseLayout">
+        <put name="title" value="rabikharpatwaar" />
+        <put name="body" value="/kharpatwaar/rabikharpatwaar.jsp"/>
+    </definition>
+    
+        <definition name="dhaankeet1" extends="baseLayout">
+        <put name="title" value="dhaankeet1" />
+        <put name="body" value="/keetnaasak/dhaankeet1.jsp"/>
+    </definition>
+     <definition name="gehunkeet2" extends="baseLayout">
+        <put name="title" value="gehunkeet2" />
+        <put name="body" value="/keetnaasak/gehunkeet2.jsp"/>
+    </definition>
+    
+    <definition name="soyabean3" extends="baseLayout">
+        <put name="title" value="soyabean3" />
+        <put name="body" value="/keetnaasak/soyabean3.jsp"/>
+    </definition>
+     <definition name="bean4" extends="baseLayout">
+        <put name="title" value="bean4" />
+        <put name="body" value="/keetnaasak/bean4.jsp"/>
+    </definition>
+    
+     <definition name="chana5" extends="baseLayout">
+        <put name="title" value="chana5" />
+        <put name="body" value="/keetnaasak/chana.jsp"/>
+    </definition>
+    <definition name="sabji1" extends="baseLayout">
+        <put name="title" value="sabji1" />
+        <put name="body" value="/keetnaasak/sabjikeet6.jsp"/>
+    </definition>
+     <definition name="sabji2" extends="baseLayout">
+        <put name="title" value="sabji2" />
+        <put name="body" value="/keetnaasak/sabjikeet7.jsp"/>
+    </definition>
+   <definition name="fal8" extends="baseLayout">
+        <put name="title" value="fal8" />
+        <put name="body" value="/keetnaasak/fal8.jsp"/>
+    </definition>   
+      <definition name="rasayannaam" extends="baseLayout">
+        <put name="title" value="rasayannaam" />
+        <put name="body" value="/keetnaasak/rasayannaam.jsp"/>
+    </definition>
+    <definition name="gruhvigyan" extends="baseLayout">
+        <put name="title" value="gruhvigyan" />
+        <put name="body" value="/gruhvigyan.jsp"/>
+    </definition>
+     <definition name="paristthsurakcha" extends="baseLayout">
+        <put name="title" value="paristthsurakcha" />
+        <put name="body" value="/grahvigyan/paristthsurakcha.jsp"/>
+    </definition>
+      <definition name="falsabjiparikchan" extends="baseLayout">
+        <put name="title" value="paristthsurakcha" />
+        <put name="body" value="/grahvigyan/falsabjiparikchan.jsp"/>
+    </definition>
+    <definition name="laguudyog" extends="baseLayout">
+        <put name="title" value="laguudyog" />
+        <put name="body" value="/grahvigyan/laguudyog.jsp"/>
+    </definition>
+    <definition name="moteyanazmuly" extends="baseLayout">
+        <put name="title" value="laguudyog" />
+        <put name="body" value="/grahvigyan/moteyanazmuly.jsp"/>
+    </definition>
+      <definition name="moteyanazmuly1" extends="baseLayout">
+        <put name="title" value="laguudyog" />
+        <put name="body" value="/grahvigyan/moteyanazmuly1.jsp"/>
+    </definition>
+    
+    <definition name="krishiArth" extends="baseLayout">
+        <put name="title" value="krishiArth" />
+        <put name="body" value="/krishiArth.jsp"/>
+    </definition>
+    
+</tiles-definitions>
