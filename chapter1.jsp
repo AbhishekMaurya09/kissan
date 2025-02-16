@@ -17,7 +17,7 @@
         <center>
             <p align="center" style="-ms-text-overflow: ">
                 
-            <center><h3 class="h3class">उत्तराखंड एक दृष्टि</h3></center><br/>
+            <center><h3 class="h3class">उत्तराखंड-एक दृष्टि मे </h3></center><br/>
               
 <table>
 <tbody>
