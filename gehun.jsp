@@ -35,9 +35,9 @@ function popitup(url) {
   <b>सारणी 1 : भारत वर्ष में गेहूँ के क्षेत्र, बुवाई की दशा एवं संस्तुत किस्में :
   </b>
   <br/>
-  <img src="imgages\tables\table1.jpg" alt="table1">
-  <img src="imgages/tables/table2.jpg" alt="table2" width="778px">
-
+  <img src="imgages\tables\table1.jpg" alt="table1" width="1000px"> <br />
+  <img src="imgages/tables/table2.jpg" alt="table2" width="1000px">  <br />
+  <img src="imgages/tables/table3.jpg" alt="table2" width="1000px">  <br />
 
   <table width="507" border="0">
     <tr>
