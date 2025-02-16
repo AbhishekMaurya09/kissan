@@ -15,6 +15,7 @@
           <center><h2 class="h2class">खाद्यान्न फसलें</h2></center>
         <a  class="aclass" href="Link.do?method=gehun" >गेहूं</a><br/><br/>
         <a class="aclass" href="Link.do?method=chawal" >धान</a><br/><br/>
+        <a class="aclass" href="Link.do?method=jo" >धान</a><br/><br/>
         <a class="aclass" href="Link.do?method=macca" >मक्का</a>
     </body>
 </html>
