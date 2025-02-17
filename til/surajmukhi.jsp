@@ -16,95 +16,9 @@
 <p><br>
 <strong class="strongclass"> उन्नत किस्में</strong></p>
 <div align="center">
-  <table width="633" height="488" border="1">
-    <tr>
-      <td width="247"><div align="center"><strong class="strongclass1">संकर किस्म</strong></div></td>
-      <td width="203">
-      <div align="center"><strong class="strongclass1">पकने की अवधि<strong class="strongclass1">(दिन)</strong></strong></div></td>
-      <td width="161"><div align="center"><strong class="strongclass1">उपज</strong><strong class="strongclass1">(कु./हैक्टर)</strong></div></td>
-    </tr>
-    <tr>
-      <td><div align="center">एस.एस.एच.-6163</div></td>
-      <td>
-      <div align="center">90-95</div></td>
-      <td><div align="center">20-22</div></td>
-    </tr>
-    <tr>
-      <td><div align="center">एन.एस.एफ.एच.-36</div></td>
-      <td><div align="center">90-95</div></td>
-      <td>
-      <div align="center">22-24</div></td>
-    </tr>
-    <tr>
-      <td><div align="center">पी.ए.सी.-3776</div></td>
-      <td><div align="center">95-100</div></td>
-      <td><div align="center">22-24</div></td>
-    </tr>
-    <tr>
-      <td><div align="center">सुपर ज्वालामुखी</div></td>
-      <td><div align="center">105-110 </div></td>
-      <td><div align="center">30-32</div></td>
-    </tr>
-    <tr>
-      <td><div align="center">पैरी-3848</div></td>
-      <td><div align="center">90-95</div></td>
-      <td><div align="center">18-20</div></td>
-    </tr>
-    <tr>
-      <td><div align="center">न. 6465 </div></td>
-      <td><div align="center">95-100</div></td>
-      <td><div align="center">25-30</div></td>
-    </tr>
-    <tr>
-      <td><div align="center">एम.एस.एफ.एच.-1051</div></td>
-      <td>
-      <div align="center">100-105</div></td>
-      <td><div align="center">30-32</div></td>
-    </tr>
-    <tr>
-      <td><div align="center">पैरी-3890</div></td>
-      <td><div align="center">90-95</div></td>
-      <td><div align="center">20-22</div></td>
-    </tr>
-    <tr>
-      <td><div align="center">पी. ए.सी. 36</div></td>
-      <td><div align="center">100-105</div></td>
-      <td><div align="center">23-26</div></td>
-    </tr>
-    <tr>
-      <td><div align="center">पी. ए.सी. 336</div></td>
-      <td><div align="center">100-105</div></td>
-      <td> <div align="center">20-25</div></td>
-    </tr>
-    <tr>
-      <td><div align="center">सनजीन 85</div></td>
-      <td><div align="center">85-90</div></td>
-      <td><div align="center">18-20</div></td>
-    </tr>
-    <tr>
-      <td><div align="center">कावेरी 618</div></td>
-      <td><div align="center">85-90</div></td>
-      <td><div align="center">18-20</div></td>
-    </tr>
-    <tr>
-      <td><div align="center">के.वी.एस.एच.-42</div></td>
-      <td>
-      <div align="center">95-105</div></td>
-      <td><div align="center">18-20</div></td>
-    </tr>
-    <tr>
-      <td><div align="center">संकुल किस्में मार्डन </div></td>
-      <td>
-      <div align="center">80-85 </div></td>
-      <td><div align="center">14-15</div></td>
-    </tr>
-    <tr>
-      <td><div align="center">हरियाणा सूरजमुखी -1</div></td>
-      <td><div align="center">90-95</div></td>
-      <td>
-      <div align="center">18-20</div></td>
-    </tr>
-  </table>
+  
+  <p><img src="../imgages/surajmukhi1stpic.jpg" width="503" height="304" alt=""/></p>
+ 
 </div>
 <p><strong class="strongclass">बीज शोधन: </strong>बुवाई से पहले बीज को 12 घण्टे पानी में भिगोकर छाया में 3-4 घंटे सुखाकर कैप्टान की 2 ग्रा. मात्रा या थीरम की 3 ग्रा. मात्रा लेकर प्रति कि.ग्रा. की दर से शोधित कर लेना चाहिए, इससे बीज का जमाव अच्छा होता है एवं साथ ही पौध को विभिन्न बीमारियों से बचाया जा सकता है।<br>
 </p>
