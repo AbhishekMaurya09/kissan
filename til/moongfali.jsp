@@ -18,49 +18,14 @@
   <strong class="strongclass">उन्नत किस्में </strong><br>
 </p>
 <p>&nbsp;</p>
-<div align="center">
-  <table width="483" height="220" border="1">
-    <tr>
-      <td width="153" height="23"><div align="center"><strong class="strongclass1">प्रजातियाँ </strong> &nbsp;&nbsp;</div></td>
-      <td width="173">&nbsp;<strong class="strongclass1">पकने की अवधि (दिन) </strong></td>
-      <td width="135"><div align="center"><strong class="strongclass1">उपज  (कु./हैक्टर)</strong></div></td>
-    </tr>
-    <tr>
-      <td><div align="center">टा-64 </div></td>
-      <td><div align="center">115-120</div></td>
-      <td><div align="center">20-25</div></td>
-    </tr>
-    <tr>
-      <td><div align="center">चन्द्रा</div></td>
-      <td><div align="center">130-135</div></td>
-      <td> <div align="center">25-30</div></td>
-    </tr>
-    <tr>
-      <td><div align="center">कौशल </div></td>
-      <td><div align="center">108-112&nbsp;&nbsp;</div></td>
-      <td><div align="center">15-20</div></td>
-    </tr>
-    <tr>
-      <td><div align="center">प्रकाश</div></td>
-      <td><div align="center">115-120</div></td>
-      <td><div align="center">20-25</div></td>
-    </tr>
-    <tr>
-      <td><div align="center">अम्बर </div></td>
-      <td><div align="center">115-120	&nbsp;</div></td>
-      <td><div align="center">35-40</div></td>
-    </tr>
-    <tr>
-      <td><div align="center">आर जी-382</div></td>
-      <td><div align="center">128-133</div></td>
-      <td><div align="center">22-25 </div></td>
-    </tr>
-  </table>
-</div>
+
+<br>
+<img src="../imgages/tables/monngfali_table_1.png" width="1000px" alt="table">
+
 <p><br>
   <br>
   <strong class="strongclass">  बीज दर </strong><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;टा. 64 एवं चन्द्रा प्रजाति के लिए 60-70 किग्रा. कौशल के लिये 90-95 कि.ग्रा. एवं  अन्य प्रजातियों के लिए 70-75 कि.ग्रा. प्रति हैक्टर बीज दर रखते हंै।  	</p>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;70-75 किग्रा. कौशल के लिये 90-95 कि.ग्रा. एवं  अन्य प्रजातियों के लिए 70-75 कि.ग्रा. प्रति हैक्टर बीज दर रखते हंै।  	</p>
 <p><strong class="strongclass">बुवाई का समय </strong><br>
   जून द्वितीय पक्ष से जुलाई प्रथम पक्ष।<br>
 </p>

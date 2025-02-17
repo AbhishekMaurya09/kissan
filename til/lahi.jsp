@@ -13,65 +13,11 @@
     </head>
     <body>
     <center><h3 class="h3class"><strong>लाही (तोरिया)</strong></h3></center>
-<p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;तोरिया को अल्प अवधि की फसल के रूप में खरीफ एवं रबी मौसम के बीच में बुवाई कर अतिरिक्त लाभ अर्जित किया जा सकता है। तोरिया की अधिक उपज प्राप्त करने हेतु निम्न बातों पर विशेष ध्यान देना चाहिएः<br>
-</p>
+      <p>अल्प अवधि में अधिक उपज क्षमता के कारण तोरिया को कैच क्राप के रुप में खरीफ एवं रबी मौसम के बीच मैदानी, तराई एवं भावर तथा निचले पर्वतीय क्षेत्रों में उगाकर अतिरिक्त लाभअर्जित किया जा सकता है।</p>
+      <br>
 <p><strong class="strongclass">उन्नत किस्में</strong><br>
-<center><table  border="1">
-  <tr>
-    <td width="244" ><strong class="strongclass1">प्रजातियाँ   </strong></td>
-    <td width="139" ><strong class="strongclass1"> उत्पादन क्षमता   कु./हैक्टर</strong></td>
-    <td width="68" ><strong class="strongclass1"> पकने की  अवधि दिन</strong></td>
-    <td width="159" ><strong class="strongclass1">प्रयुक्त परिस्थिति </strong></td>
-  </tr>
-  <tr>
-    <td>उत्तरा </td>
-    <td>16-20 </td>
-    <td>93-97</td>
-    <td>सिंचित मैदानी क्षेत्र</td>
-  </tr>
-  <tr><td><br> </td></tr>
-  <tr>
-    <td>टाइप-9</td>
-    <td>12-15</td>
-    <td>90-95</td>
-    <td>सिंचित मैदानी क्षेत्र </td>
-  </tr>
-  <tr><td><br> </td></tr>
-  <tr>
-    <td>पी.टी.-303</td>
-    <td>15-16 </td>
-    <td>90-95	  </td>
-    <td>सम्पूर्ण भारतवर्ष में सिंचित खेती के लिए</td>
-  </tr>
-  <tr><td><br> </td></tr>
-  <tr>
-    <td>पी.टी.-30</td>
-    <td>14-16</td>
-    <td>90-95</td>
-    <td>सिंचित मैदानी क्षेत्र</td>
-  </tr>
-  <tr><td><br> </td></tr>
-  <tr>
-    <td>भवानी </td>
-    <td>10-12</td>
-    <td>75-80</td>
-    <td>सिंचित एवं देर से बुवाई हेतु (उ.प्र. एवं उत्तराखण्ड में)</td>
-  </tr>
-  <tr><td><br> </td></tr>
-  <tr>
-    <td>पी.टी.-507 </td>
-    <td>8-10</td>
-    <td>85-90</td>
-    <td>असिंचित दशाओं हेतु</td>
-  </tr>
-  <tr><td><br> </td></tr>
-  <tr>
-    <td>वी.एल. तोरिया-3</td>
-    <td>8-10</td>
-    <td>150-155</td>
-    <td>मध्य पर्वतीय क्षेत्र</td>
-  </tr>
-</table>
+
+  <img src="../imgages/tables/table_lahi_1.jpg" alt="table" width="1000px">
 
 </center>
 <p><strong class="strongclass">टिप्पणी:</strong> उत्तरा एवं पी.टी. 303 निचले एवं मध्य पर्वतीय क्षेत्रों में बुवाई हेतु भी उपयुक्त। <br>
